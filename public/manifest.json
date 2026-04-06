@@ -1,0 +1,17 @@
+{
+  "name": "ICAM Solutions - Security & Networking",
+  "short_name": "ICAM Solutions",
+  "description": "Professional CCTV & Networking Solutions",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#00d4ff",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "orientation": "portrait"
+}
